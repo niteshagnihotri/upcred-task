@@ -1,0 +1,65 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Entertainment Video | Kid Playing",
+      "creator": "Pokemon",
+      "link":"https://youtube.com/embed/4MjzAPYi2CM",
+      "likes":"",
+      "watched":""
+    },
+    {
+      "id": 2,
+      "title": "Spiderman is so dramatic",
+      "creator": "DednaHype",
+      "link":"https://youtube.com/embed/yjyJ_rNuMpA",
+      "likes":"",
+      "watched":""
+    },
+    {
+      "id": 3,
+      "title": "New Trending Reels ",
+      "creator": "Tseries",
+      "link":"https://youtube.com/embed/NuM_RDdlCRU",
+      "likes":"",
+      "watched":""
+    },
+    {
+      "id": 4,
+      "title": "Entertainment Video | Kid Playing",
+      "creator": "Pokemon",
+      "link":"https://youtube.com/embed/4MjzAPYi2CM",
+      "likes":"",
+      "watched":""
+    },
+    {
+      "id": 5,
+      "title": "New Trending Reels ",
+      "creator": "DednaHype",
+      "link":"https://youtube.com/embed/yjyJ_rNuMpA",
+      "likes":"",
+      "watched":""
+    },
+    {
+      "id": 6,
+      "title": "New Trending Reels ",
+      "creator": "Tseries",
+      "link":"https://youtube.com/embed/NuM_RDdlCRU",
+      "likes":"",
+      "watched":""
+    },
+    {
+      "id": 7,
+      "title": "Entertainment Video | Kid Playing",
+      "creator": "Poekmon",
+      "link":"https://youtube.com/embed/4MjzAPYi2CM",
+      "likes":"",
+      "watched":""
+    }
+  ],
+  "history":[
+    {
+
+    }
+  ]
+}
